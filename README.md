@@ -2,6 +2,7 @@
 Some Autohotkey automation scrips
 
 <H3>HotKeysGeneral.ahk</H3>
+Tested with Autohotkey 1.1.30.03
 
 - Always on top window
 - Suspend Autohotkey
