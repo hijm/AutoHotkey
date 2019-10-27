@@ -1,5 +1,5 @@
 # AutoHotkey
-Some Autohotkey automation scrips
+Some AutoHotkey automation scrips
 
 <H3>HotKeysGeneral.ahk</H3>
 Tested with AutoHotkey 1.1.30.03
